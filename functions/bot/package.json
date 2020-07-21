@@ -1,14 +1,14 @@
 {
   "name": "bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Serverless bot built on top of Netlify Serverless Functions",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["Telegram", "Bot", "Serverless"],
+  "author": "Genemator Sakhib",
+  "license": "MIT",
   "dependencies": {
     "faunadb": "^2.13.0",
     "telegraf": "^3.36.0"

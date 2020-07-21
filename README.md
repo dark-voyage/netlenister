@@ -47,3 +47,6 @@ Try typing ```/start``` to your bot and watch as the user ID of the Telegram use
 
 This bot uses telegraf.js for its Telegram Bot functionality. Head to its [website](https://telegraf.js.org/#/) to find out how to extend the functionality of the bot you have created :)
 
+# Demo
+
+[Beta BSBA Bot](https://t.me/beta_bsba_bot)
